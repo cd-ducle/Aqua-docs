@@ -53,21 +53,21 @@ sort[createdAt] = desc
 
 | Operator    | Description |
 | ----------- | ----------- |
-| [eq](###eq)| Equal|
-| [not](###not)| Not|
-| [gt](###gt)| Greater than|
-| [lt](###lt)| Less than|
-| [gte](###gte)| Greater than or equal|
-| [lte](###lte)| Less than or equal|
-| [in](###in) | In|
-| [notIn](###notIn)| Not in|
-| [contains](###contains)| Contains character string|
-| [startWith](###startWith)| Start with character string|
-| [endWith](###endWith)| End with character string|
-| [isNull](###isNull)| Is null|
-| [isNotNull](###isNotNull)| Is not null|
-| [isTrue](###isTrue)| Equal true|
-| [isFalse](###isFalse)| Equal false|
+| [eq](#eq)| Equal|
+| [not](#not)| Not|
+| [gt](#gt)| Greater than|
+| [lt](#lt)| Less than|
+| [gte](#gte)| Greater than or equal|
+| [lte](#lte)| Less than or equal|
+| [in](#in) | In|
+| [notIn](#notIn)| Not in|
+| [contains](#contains)| Contains character string|
+| [startWith](#startWith)| Start with character string|
+| [endWith](#endWith)| End with character string|
+| [isNull](#isNull)| Is null|
+| [isNotNull](#isNotNull)| Is not null|
+| [isTrue](#isTrue)| Equal true|
+| [isFalse](#isFalse)| Equal false|
 
 ## Details
 ### eq
