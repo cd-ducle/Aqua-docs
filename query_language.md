@@ -1,6 +1,6 @@
 # Aqua's query language
 
-Aqua's query language documentation
+Aqua's query language document
 
 ## Usage
 
