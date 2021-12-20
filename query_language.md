@@ -120,7 +120,7 @@ Tìm tất cả dữ liệu có *price* `nhỏ hơn` *9600*
 filter[age][gte]=18
 ```
 
-Tìm tất cả dữ liệu có *price* `lớn hơn hoặc bằng` *18*
+Tìm tất cả dữ liệu có *age* `lớn hơn hoặc bằng` *18*
 
 ---
 
@@ -130,7 +130,7 @@ Tìm tất cả dữ liệu có *price* `lớn hơn hoặc bằng` *18*
 filter[age][lte]=23
 ```
 
-Tìm tất cả dữ liệu có *price* `nhỏ hơn hoặc bằng` *23*
+Tìm tất cả dữ liệu có *age* `nhỏ hơn hoặc bằng` *23*
 
 ---
 
@@ -141,7 +141,7 @@ filter[color][in]=red
 filter[color][in]=blue
 ```
 
-Tìm tất cả dữ liệu có *type* `bằng` *red* `hoặc bằng` *blue*
+Tìm tất cả dữ liệu có *color* `bằng` *red* `hoặc bằng` *blue*
 
 ---
 
@@ -152,7 +152,7 @@ filter[color][in]=red
 filter[color][in]=blue
 ```
 
-Tìm tất cả dữ liệu có *type* `không bằng` *red* `và không bằng` *blue*
+Tìm tất cả dữ liệu có *color* `không bằng` *red* `và không bằng` *blue*
 
 ---
 
