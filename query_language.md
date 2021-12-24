@@ -159,7 +159,7 @@ Tìm tất cả dữ liệu có *color* `không bằng` *red* `và không bằng
 ### contains
 
 ```
-filter[fullName][contains]=Anh
+filter[fullName][contains]=Trọng Anh
 ```
 
 Tìm tất cả dữ liệu có *fullName* `chứa chuỗi` *Trọng Anh*
